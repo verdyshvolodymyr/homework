@@ -1,0 +1,39 @@
+.foil {
+  width: 800px;
+  margin: auto;
+}
+.header__title {
+  background-color: red;
+  color: white;
+  text-align: center;
+}
+.header__logo {
+  width: 100%;
+}
+.content__italic {
+  font-style: italic;
+}
+.content__fatty {
+  font-weight: bold;
+}
+.content__italic-fatty-blue {
+  font-style: italic;
+  font-weight: bold;
+  color: blue;
+}
+.carPhoto {
+  display: inline-block;
+}
+.content__galary {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+.content__blue {
+  color: blue;
+}
+.footer__copyright {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
